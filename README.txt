@@ -1,0 +1,3 @@
+-Remember to install the node_modules --> npm i 
+-Remember to add your mnemonic in the truffle-config.js 
+-Remember to change the network id for loteria, premios and tokens for select the correct network
